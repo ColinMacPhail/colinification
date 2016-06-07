@@ -1,5 +1,9 @@
 require "colinification/version"
 
 module Colinification
-  # Your code goes here...
+  class Colinify
+    def Colin
+      'say your code has been colinified'
+    end
+  end
 end
